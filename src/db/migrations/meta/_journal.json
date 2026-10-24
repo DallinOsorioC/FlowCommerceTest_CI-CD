@@ -1,0 +1,209 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1756616400000,
+      "tag": "0000_create_users",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1788241680606,
+      "tag": "0001_sticky_shockwave",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1788318298632,
+      "tag": "0002_ordinary_hobgoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1788320239435,
+      "tag": "0003_boring_stark_industries",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791260081603,
+      "tag": "0004_crm_leads_quotes_messages",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1791396885361,
+      "tag": "0005_perpetual_cardiac",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1791414194116,
+      "tag": "0006_products_catalog",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1791414536808,
+      "tag": "0007_clients",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1791414901367,
+      "tag": "0008_leads_pipeline_fields",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1791417352348,
+      "tag": "0009_quotes_lifecycle",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1791419386246,
+      "tag": "0010_project_settings",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1791439180867,
+      "tag": "0011_lead_history_protection",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1791439728766,
+      "tag": "0012_gt_defaults_paid_at",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1792048862700,
+      "tag": "0013_drop_resources",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1792049055891,
+      "tag": "0014_quote_commercial_adjustment",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1792049624793,
+      "tag": "0015_messages_conversations",
+      "breakpoints": true
+    },
+    {
+      "idx": 16,
+      "version": "7",
+      "when": 1792545586993,
+      "tag": "0016_seed_folio_counters",
+      "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1792545929915,
+      "tag": "0017_products_name_case_insensitive",
+      "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1792546082034,
+      "tag": "0018_normalize_client_tax_id",
+      "breakpoints": true
+    },
+    {
+      "idx": 19,
+      "version": "7",
+      "when": 1792546220700,
+      "tag": "0019_follow_ups",
+      "breakpoints": true
+    },
+    {
+      "idx": 20,
+      "version": "7",
+      "when": 1792546220707,
+      "tag": "0020_notifications",
+      "breakpoints": true
+    },
+    {
+      "idx": 21,
+      "version": "7",
+      "when": 1792546220712,
+      "tag": "0021_project_invitations",
+      "breakpoints": true
+    },
+    {
+      "idx": 22,
+      "version": "7",
+      "when": 1792564146496,
+      "tag": "0022_activity_files_integrations",
+      "breakpoints": true
+    },
+    {
+      "idx": 23,
+      "version": "7",
+      "when": 1792737073465,
+      "tag": "0023_whatsapp_accounts_quick_replies",
+      "breakpoints": true
+    },
+    {
+      "idx": 24,
+      "version": "7",
+      "when": 1792737549061,
+      "tag": "0024_webhooks_and_api_key_scopes",
+      "breakpoints": true
+    },
+    {
+      "idx": 25,
+      "version": "7",
+      "when": 1792740197962,
+      "tag": "0025_lead_views",
+      "breakpoints": true
+    },
+    {
+      "idx": 26,
+      "version": "7",
+      "when": 1792780412910,
+      "tag": "0026_leads_open_last_activity_idx",
+      "breakpoints": true
+    },
+    {
+      "idx": 27,
+      "version": "7",
+      "when": 1792782145890,
+      "tag": "0027_enable_rls",
+      "breakpoints": true
+    },
+    {
+      "idx": 28,
+      "version": "7",
+      "when": 1792782655598,
+      "tag": "0028_drop_better_auth_tables",
+      "breakpoints": true
+    }
+  ]
+}

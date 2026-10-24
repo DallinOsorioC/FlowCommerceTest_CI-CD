@@ -1,0 +1,1 @@
+CREATE INDEX "leads_open_last_activity_idx" ON "leads" USING btree (coalesce("last_contact_at", "creado_en")) WHERE "leads"."stage" NOT IN ('WON', 'LOST');
