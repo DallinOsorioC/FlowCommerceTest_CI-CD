@@ -8,6 +8,7 @@
   "scripts": {
     "build": "nest build",
     "build:packages": "pnpm --filter @flowcommerce/types build",
+    "postinstall": "pnpm run build:packages",
     "prebuild": "pnpm run build:packages",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
